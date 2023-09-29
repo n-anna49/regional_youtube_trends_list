@@ -4,7 +4,7 @@ The following web app accesses YouTube's API to display trending videos by regio
 
 This web app was made with the goal of providing accessibility to the user for viewing trending lists by region. The web app currently displays the trending lists in the United States, Greece, and South Korea. However, its functionality can be extended to include other regions.
 
-Flask was used to create the web app and the Python code can be seen in the main.py file. Bootstrap templates were also used to ease the UI design process, and be viewed in the templates/layout.html file.
+Flask was used to create the web app and the Python code can be seen in the main.py file. Bootstrap templates were also used to ease the UI design process, and can be viewed in the templates/layout.html file.
 
 # To Run
 To run this web app, Python3 must be installed. The following instructions is for a Linux OS, but the process should be similar for Windows, with a few minor changes.
