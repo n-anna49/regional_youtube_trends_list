@@ -25,4 +25,4 @@ export FLASK_APP=main.py
 flask run
 ```
 Open a browser and type in the searchbar **localhost:5000** or **127.0.0.1:5000**. The web app will display the trending YouTube videos by region.
-![Trending Videos in the US](https://github.com/n-anna49/regional_youtube_trends_list/assets/105296323/1bbad8c6-296d-4e90-8ba9-a515cc8de706)
+![image](https://github.com/n-anna49/regional_youtube_trends_list/assets/105296323/1bbad8c6-296d-4e90-8ba9-a515cc8de706)
